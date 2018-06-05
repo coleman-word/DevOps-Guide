@@ -8,7 +8,7 @@ Coleman Word
 
 colemanword@gmail.com
 
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/contributors/coleman-word.png)
+![](https://github.com/coleman-word/DevOps-Guide/blob/master/images/contributors/coleman-word.jpeg)
 
 
 ## Essential Resources
@@ -17,7 +17,7 @@ colemanword@gmail.com
 
 ## Markdown: Documentation
 
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/markdown.png)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/markdown.png)
 
 * Overview
 * Commands
@@ -26,7 +26,7 @@ colemanword@gmail.com
 * Tutorials
 
 ## Git: Open Source Version Control
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/github.jpg)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/github.jpg)
 
 * Overview
 * Commands
@@ -35,7 +35,7 @@ colemanword@gmail.com
 * Tutorials
 
 ## Linux: Open Source Operating System
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/Linux.jpg)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/Linux.jpg)
 
 * Overview
 * Commands
@@ -45,7 +45,7 @@ colemanword@gmail.com
 
 ## Atom: Open Source Integrated Development Environment
 
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/atom.png)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/atom.png)
 
 * Overview
 * Commands
@@ -55,7 +55,7 @@ colemanword@gmail.com
 
 ## Slack: Chat Operations
 
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/slack.png)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/slack.png)
 
 * Overview
 * Commands
@@ -64,7 +64,7 @@ colemanword@gmail.com
 * Tutorials
 
 ## SQL Databases
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/sql.png)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/sql.png)
 
 * Overview
 * Commands
@@ -73,7 +73,7 @@ colemanword@gmail.com
 * Tutorials
 
 ## NoSQL Databases
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/nosql.png)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/nosql.png)
 
 * Overview
 * Commands
@@ -82,7 +82,7 @@ colemanword@gmail.com
 * Tutorials
 
 ## Web Servers 
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/webserver.jpg)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/webserver.jpg)
 
 * Overview
 * Commands
@@ -91,7 +91,7 @@ colemanword@gmail.com
 * Tutorials
 
 ## HTTP
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/http.jpg)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/http.jpg)
 
 * Overview
 * Commands
@@ -100,7 +100,7 @@ colemanword@gmail.com
 * Tutorials
 
 ## JSON
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/json.png)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/json.png)
 
 * Overview
 * Commands
@@ -109,7 +109,7 @@ colemanword@gmail.com
 * Tutorials
 
 ## YAML
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/yaml.png)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/yaml.png)
 
 * Overview
 * Commands
@@ -118,7 +118,7 @@ colemanword@gmail.com
 * Tutorials
 
 ## Networking
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/networking.jpg)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/networking.jpg)
 
 * Overview
 * Commands
@@ -126,7 +126,7 @@ colemanword@gmail.com
 * Terminology
 
 ## Jenkins: Continuous Integration
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/Jenkins.jpg)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/Jenkins.jpg)
 
 * Overview
 * Commands
@@ -135,7 +135,7 @@ colemanword@gmail.com
 * Tutorials
 
 ## Terraform: Infrastructure as Code
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/terraform.png)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/terraform.png)
 
 * Overview
 * Commands
@@ -143,7 +143,7 @@ colemanword@gmail.com
 * Tutorials
 
 ## Packer
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/packer.png)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/packer.png)
 
 * Overview
 * Commands
@@ -151,7 +151,7 @@ colemanword@gmail.com
 * Terminology
 
 ## Ansible: Configuration Management
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/ansible.jpg)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/ansible.jpg)
 
 * Overview
 * Commands
@@ -159,7 +159,7 @@ colemanword@gmail.com
 * Terminology
 
 ## Docker: Containerization
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/docker.png)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/docker.png)
 
 * Overview
 * Commands
@@ -168,7 +168,7 @@ colemanword@gmail.com
 * Tutorials
 
 ## Kubernetes: Container Orchestration
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/Kubernetes.png)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/Kubernetes.png)
 
 * Overview
 * Commands
@@ -177,7 +177,7 @@ colemanword@gmail.com
 * Tutorials
 
 ## Splunk: Data 
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/splunk.jpg)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/splunk.jpg)
 
 * Overview
 * Commands
@@ -186,7 +186,7 @@ colemanword@gmail.com
 * Tutorials
 
 ## Amazon Web Services: Infrastructure as a Service 
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/AWS.png)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/AWS.png)
 
 * Overview
 * Commands
@@ -195,7 +195,7 @@ colemanword@gmail.com
 
 ## Lambda: Functions as a Service
 
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/lambda.svg)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/lambda.svg)
 
 * Overview
 * Commands
@@ -205,7 +205,7 @@ colemanword@gmail.com
 
 ## Python3
 
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/python3.png)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/python3.png)
 
 * Overview
 * Commands
@@ -215,7 +215,7 @@ colemanword@gmail.com
 
 ## Golang
 
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/golang.png)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/golang.png)
 
 * Overview
 * Commands
@@ -225,7 +225,7 @@ colemanword@gmail.com
 
 ## Node.js
 
-![](https://github.com/Coleman-Word/devops-cheatsheets/blob/images/logos/node.png)
+![](https://github.com/Coleman-Word/devops-cheatsheets/blob/master/images/logos/node.png)
 
 * Overview
 * Commands
