@@ -1,6 +1,8 @@
 # A Guide to Open Source DevOps Tools
 Because education should be open source, too.
 
+![](https://github.com/Coleman-Word/DevOps-Guide/blob/master/images/logos/devops.png)
+
 Contributors:
 _Looking for Help!_
 
@@ -126,7 +128,7 @@ colemanword@gmail.com
 * Terminology
 
 ## Jenkins: Continuous Integration
-![](https://github.com/Coleman-Word/devops-guide/blob/master/images/logos/Jenkins.jpg)
+![](https://github.com/Coleman-Word/devops-guide/blob/master/images/logos/jenkins.jpg)
 
 * Overview
 * Commands
@@ -168,7 +170,7 @@ colemanword@gmail.com
 * Tutorials
 
 ## Kubernetes: Container Orchestration
-![](https://github.com/Coleman-Word/devops-guide/blob/master/images/logos/Kubernetes.png)
+![](https://github.com/Coleman-Word/devops-guide/blob/master/images/logos/kubernetes.png)
 
 * Overview
 * Commands
@@ -186,7 +188,7 @@ colemanword@gmail.com
 * Tutorials
 
 ## Amazon Web Services: Infrastructure as a Service 
-![](https://github.com/Coleman-Word/devops-guide/blob/master/images/logos/AWS.png)
+![](https://github.com/Coleman-Word/devops-guide/blob/master/images/logos/aws.png)
 
 * Overview
 * Commands
@@ -225,7 +227,7 @@ colemanword@gmail.com
 
 ## Node.js
 
-![](https://github.com/Coleman-Word/devops-guide/blob/master/images/logos/node.png)
+![](https://github.com/Coleman-Word/devops-guide/blob/master/images/logos/nodejs.png)
 
 * Overview
 * Commands
