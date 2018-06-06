@@ -1,0 +1,14 @@
+Maintainers: Elisey Zanko <elisey.zanko@gmail.com> (@31z4)
+GitRepo: https://github.com/31z4/storm-docker.git
+
+Tags: 1.0.6, 1.0
+GitCommit: 9986213e09356e2d5230e6af9338052ce858b224
+Directory: 1.0.6
+
+Tags: 1.1.2, 1.1
+GitCommit: 9986213e09356e2d5230e6af9338052ce858b224
+Directory: 1.1.2
+
+Tags: 1.2.1, 1.2, latest
+GitCommit: 9b5187aea15c0e21d082b1f041cdc2f7a892dc26
+Directory: 1.2.1

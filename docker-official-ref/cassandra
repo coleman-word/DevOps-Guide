@@ -1,0 +1,25 @@
+# this file is generated via https://github.com/docker-library/cassandra/blob/deeb9b3ede9118ce4f642860d74c8513d39461b8/generate-stackbrew-library.sh
+
+Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon),
+             Joseph Ferguson <yosifkit@gmail.com> (@yosifkit)
+GitRepo: https://github.com/docker-library/cassandra.git
+
+Tags: 2.1.20, 2.1
+Architectures: amd64, arm64v8, i386
+GitCommit: 01786683a1b060f813bce5539b1743695f9cc043
+Directory: 2.1
+
+Tags: 2.2.12, 2.2, 2
+Architectures: amd64, i386
+GitCommit: 01786683a1b060f813bce5539b1743695f9cc043
+Directory: 2.2
+
+Tags: 3.0.16, 3.0
+Architectures: amd64, arm64v8, i386, ppc64le
+GitCommit: 01786683a1b060f813bce5539b1743695f9cc043
+Directory: 3.0
+
+Tags: 3.11.2, 3.11, 3, latest
+Architectures: amd64, arm64v8, i386, ppc64le
+GitCommit: 01786683a1b060f813bce5539b1743695f9cc043
+Directory: 3.11

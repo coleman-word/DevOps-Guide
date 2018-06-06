@@ -1,0 +1,12 @@
+Maintainers: Darin Morrison <darinmorrison+git@gmail.com> (@freebroccolo),
+             Peter Salvatore <peter@psftw.com> (@psftw),
+             Christopher Biscardi <chris@christopherbiscardi.com> (@ChristopherBiscardi)
+GitRepo: https://github.com/freebroccolo/docker-haskell
+
+Tags: 8.4.3, 8.4, 8, latest
+GitCommit: af83447feb6ebeabbc0cbad27adb3895e6262951
+Directory: 8.4
+
+Tags: 8.2.2, 8.2
+GitCommit: af83447feb6ebeabbc0cbad27adb3895e6262951
+Directory: 8.2

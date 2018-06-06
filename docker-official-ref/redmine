@@ -1,0 +1,23 @@
+# this file is generated via https://github.com/docker-library/redmine/blob/10bdb805ef3e5a3edd4cd1a79369ae2bfdc6e3f9/generate-stackbrew-library.sh
+
+Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon),
+             Joseph Ferguson <yosifkit@gmail.com> (@yosifkit)
+GitRepo: https://github.com/docker-library/redmine.git
+
+Tags: 3.4.5, 3.4, 3, latest
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, ppc64le, s390x
+GitCommit: cf4acba62e86fef7de93922b08ff85554e8978bd
+Directory: 3.4
+
+Tags: 3.4.5-passenger, 3.4-passenger, 3-passenger, passenger
+GitCommit: 6283032368948d5ac3ede71e9cec0a586a903603
+Directory: 3.4/passenger
+
+Tags: 3.3.7, 3.3
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, ppc64le, s390x
+GitCommit: cf4acba62e86fef7de93922b08ff85554e8978bd
+Directory: 3.3
+
+Tags: 3.3.7-passenger, 3.3-passenger
+GitCommit: 6283032368948d5ac3ede71e9cec0a586a903603
+Directory: 3.3/passenger

@@ -1,0 +1,18 @@
+Maintainers: Scientific Linux Development Team <scientific-linux-devel@fnal.gov> (@sl-team)
+GitRepo: https://github.com/scientificlinux/sl-docker.git
+Constraints: !aufs
+
+# Currently SL7 is the 'latest'
+# For the SL7 container
+Tags: 7, latest
+Architectures: amd64
+GitFetch: refs/heads/7
+Directory: sl7
+GitCommit: bf7fa6a6837b82f8ee1eaa37a5a5520739d8c995
+
+# For the SL6 container
+Tags: 6
+Architectures: amd64
+GitFetch: refs/heads/6
+Directory: sl6
+GitCommit: bdbd37c42f0bd69415f80eb773a37438f85ffc5b
